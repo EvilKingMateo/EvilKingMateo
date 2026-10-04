@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mmunson19
-- 👀 I’m interested in ...
-- 🌱 I’m currently studying Design & Technology, Computer Science, Music & Maths
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me somehow
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: ...
+class Me(Person):
+  def __init__(self):
+    pronouns   = 'they/them' #agender 
+    instrument = ['piano'] #jazz
+    interests  = ['Technical Theatre', 'Jazz']
+    education  = 'Year 1 undergraduate architect student'
+  
